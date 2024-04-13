@@ -13,12 +13,12 @@
 
 - 📫 How to reach me **hasuh5pepe@gmail.com**
 
-- ⚡ Fun fact **I am a Sri Lankan Professional Football Player**
+- ⚡ Fun fact **I am a Sri Lankan Professional football player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://linkedin.com/in/hasmath-mohamed-ismail-19a600207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/hasmath-mohamed-ismail-19a600207" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100008380937531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100008380937531" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasmath-mohamed-ismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasmath-mohamed-ismail" height="30" width="40" /></a>
+<a href="https://fb.com/hasu mohamed ismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasu mohamed ismail" height="30" width="40" /></a>
 <a href="https://instagram.com/hasmath ismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasmath ismail" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hasmath ismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasmath ismail" height="30" width="40" /></a>
 </p>
