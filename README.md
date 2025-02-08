@@ -3,15 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasuhasmath&label=Profile%20views&color=0e75b6&style=flat" alt="hasuhasmath" /> </p>
 
-- 🌱 I’m currently learning **Django , Openshift**
+- 📫 How to reach me **mohamedhasmath97@gmail.com**
 
-- 👯 I’m looking to collaborate on **Cloud native projects**
-
-- 💬 Ask me about **react , cloud , nextjs , aws , python , machine learning**
-
-- 📫 How to reach me **hasuh5pepe@gmail.com**
-
-- ⚡ Fun fact **I am a Sri Lankan Professional football player**
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
